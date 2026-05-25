@@ -2,3 +2,4 @@
 
 Battle Simulator-
 simulate battle between troops, choose between 3 classes.
+Code written by hand.
